@@ -15,7 +15,7 @@ Notes Share is a collaborative note-sharing application built with Django. It al
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 1](screenshots/Screenshot 2024-04-08 171344.png)
 ![Screenshot 2](screenshots/screenshot2.png)
 
 ## Installation
